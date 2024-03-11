@@ -1,5 +1,5 @@
 {
-  root: 'D:\\Project-GradeStatistics\\backend',
+  root: 'D:\\Filed\\Project-HFUTSoftGradeStatistics\\Code\\backend',
   registry: 'https://registry.npmmirror.com',
   pkgs: [],
   production: false,
@@ -7,7 +7,7 @@
   cacheDir: 'C:\\Users\\HuZha\\.npminstall_tarball',
   env: {
     npm_config_registry: 'https://registry.npmmirror.com',
-    npm_config_argv: '{"remain":[],"cooked":["--fix-bug-versions","--china","--userconfig=C:\\\\Users\\\\HuZha\\\\.cnpmrc","--disturl=https://cdn.npmmirror.com/binaries/node","--registry=https://registry.npmmirror.com","windows-build-tools","-g"],"original":["--fix-bug-versions","--china","--userconfig=C:\\\\Users\\\\HuZha\\\\.cnpmrc","--disturl=https://cdn.npmmirror.com/binaries/node","--registry=https://registry.npmmirror.com","windows-build-tools","-g"]}',
+    npm_config_argv: '{"remain":[],"cooked":["--fix-bug-versions","--china","--userconfig=C:\\\\Users\\\\HuZha\\\\.cnpmrc","--disturl=https://cdn.npmmirror.com/binaries/node","--registry=https://registry.npmmirror.com"],"original":["--fix-bug-versions","--china","--userconfig=C:\\\\Users\\\\HuZha\\\\.cnpmrc","--disturl=https://cdn.npmmirror.com/binaries/node","--registry=https://registry.npmmirror.com"]}',
     npm_config_user_agent: 'npminstall/7.12.0 npm/? node/v18.19.1 win32 x64',
     npm_config_cache: 'C:\\Users\\HuZha\\.npminstall_tarball',
     NODE: 'C:\\Program Files\\nodejs\\node.exe',
@@ -41,8 +41,8 @@
     npm_config_sharp_binary_host: 'https://cdn.npmmirror.com/binaries/sharp',
     npm_config_sharp_libvips_binary_host: 'https://cdn.npmmirror.com/binaries/sharp-libvips',
     npm_config_robotjs_binary_host: 'https://cdn.npmmirror.com/binaries/robotjs',
-    npm_rootpath: 'D:\\Project-GradeStatistics\\backend',
-    INIT_CWD: 'D:\\Project-GradeStatistics\\backend'
+    npm_rootpath: 'D:\\Filed\\Project-HFUTSoftGradeStatistics\\Code\\backend',
+    INIT_CWD: 'D:\\Filed\\Project-HFUTSoftGradeStatistics\\Code\\backend'
   },
   binaryMirrors: {
     ENVS: {
@@ -177,7 +177,7 @@
   disableFallbackStore: false,
   workspacesMap: Map(0) {},
   enableWorkspace: false,
-  workspaceRoot: 'D:\\Project-GradeStatistics\\backend',
+  workspaceRoot: 'D:\\Filed\\Project-HFUTSoftGradeStatistics\\Code\\backend',
   isWorkspaceRoot: true,
   isWorkspacePackage: false,
   offline: false,
@@ -185,13 +185,11 @@
   ignoreScripts: false,
   foregroundScripts: false,
   ignoreOptionalDependencies: false,
-  detail: true,
+  detail: false,
   forceLinkLatest: false,
   trace: false,
   engineStrict: false,
   registryOnly: false,
   client: false,
-  autoFixVersion: [Function: autoFixVersion],
-  targetDir: null,
-  binDir: null
+  autoFixVersion: [Function: autoFixVersion]
 }
