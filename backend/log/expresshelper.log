@@ -1,0 +1,245 @@
+服务器已在:::8010上启动。
+服务器已在:::8010上启动。
+服务器已在:::8010上启动。
+/tasks/get_all_tasks undefined GET
+/tasks/get_task_info_by_id?task_id=76 undefined GET
+/bill/get_bills_by_task_id?task_id=76 undefined GET
+/client/get_all_clients undefined GET
+/client/get_all_clients undefined GET
+/bill/change_class?client_id=11&bill_id=73514000724318 undefined GET
+/bill/change_class?client_id=11&bill_id=73514188492674 undefined GET
+/bill/change_class?client_id=11&bill_id=73514461346194 undefined GET
+/bill/change_class?client_id=11&bill_id=73514547759998 undefined GET
+/bill/change_class?client_id=11&bill_id=73514782924836 undefined GET
+/bill/change_class?client_id=11&bill_id=73514944882702 undefined GET
+/bill/change_class?client_id=11&bill_id=73515029497340 undefined GET
+/bill/change_class?client_id=11&bill_id=73515276918658 undefined GET
+/bill/change_class?client_id=9&bill_id=74100329549565 undefined GET
+/bill/change_class?client_id=11&bill_id=73514740038294 undefined GET
+/bill/change_class?client_id=11&bill_id=73514740038677 undefined GET
+/bill/change_class?client_id=11&bill_id=73514740039063 undefined GET
+/bill/change_class?client_id=11&bill_id=73514740039538 undefined GET
+/bill/change_class?client_id=11&bill_id=73514740040103 undefined GET
+/bill/change_class?client_id=11&bill_id=73514740040555 undefined GET
+/bill/change_class?client_id=11&bill_id=73514740040874 undefined GET
+/bill/change_class?client_id=11&bill_id=73514740041311 undefined GET
+/bill/change_class?client_id=11&bill_id=73514740041580 undefined GET
+/bill/change_class?client_id=11&bill_id=73514740041975 undefined GET
+/bill/change_class?client_id=11&bill_id=73514740042326 undefined GET
+/bill/change_class?client_id=11&bill_id=73514741461666 undefined GET
+/bill/change_class?client_id=11&bill_id=73514748060132 undefined GET
+/bill/change_class?client_id=11&bill_id=73514748060597 undefined GET
+/bill/change_class?client_id=11&bill_id=73514748061167 undefined GET
+/bill/change_class?client_id=11&bill_id=73514748686843 undefined GET
+/bill/change_class?client_id=11&bill_id=73514750453542 undefined GET
+/bill/change_class?client_id=11&bill_id=73514782923883 undefined GET
+/bill/change_class?client_id=11&bill_id=73514782924387 undefined GET
+/bill/change_class?client_id=11&bill_id=73514782925462 undefined GET
+/bill/change_class?client_id=11&bill_id=73514782925993 undefined GET
+/bill/change_class?client_id=11&bill_id=73514782926456 undefined GET
+/bill/change_class?client_id=11&bill_id=73514782927105 undefined GET
+/bill/change_class?client_id=11&bill_id=73514782927736 undefined GET
+/bill/change_class?client_id=11&bill_id=73514782928219 undefined GET
+/bill/change_class?client_id=11&bill_id=73514782928724 undefined GET
+/bill/change_class?client_id=11&bill_id=73514782929108 undefined GET
+/bill/change_class?client_id=11&bill_id=73514782930669 undefined GET
+/bill/change_class?client_id=11&bill_id=73514782931333 undefined GET
+/bill/change_class?client_id=11&bill_id=73514782932210 undefined GET
+/bill/change_class?client_id=11&bill_id=73514782932687 undefined GET
+/bill/change_class?client_id=11&bill_id=73514782933272 undefined GET
+/bill/change_class?client_id=11&bill_id=73514782933905 undefined GET
+/bill/change_class?client_id=11&bill_id=73514782934345 undefined GET
+/bill/change_class?client_id=11&bill_id=73514782934769 undefined GET
+/bill/change_class?client_id=11&bill_id=73514782935433 undefined GET
+/bill/change_class?client_id=11&bill_id=73514782935949 undefined GET
+/bill/change_class?client_id=11&bill_id=73514782936682 undefined GET
+/bill/change_class?client_id=11&bill_id=73514782937158 undefined GET
+/bill/change_class?client_id=11&bill_id=73514782937502 undefined GET
+/bill/change_class?client_id=11&bill_id=73514787505962 undefined GET
+/bill/change_class?client_id=11&bill_id=73514787506678 undefined GET
+/bill/change_class?client_id=11&bill_id=73514791055023 undefined GET
+/bill/change_class?client_id=11&bill_id=73514791055301 undefined GET
+/bill/change_class?client_id=11&bill_id=73514791055700 undefined GET
+/bill/change_class?client_id=11&bill_id=73514791056099 undefined GET
+/bill/change_class?client_id=11&bill_id=73514823336806 undefined GET
+/bill/change_class?client_id=11&bill_id=73514823337910 undefined GET
+/bill/change_class?client_id=11&bill_id=73514823338413 undefined GET
+/bill/change_class?client_id=11&bill_id=73514823338985 undefined GET
+/bill/change_class?client_id=11&bill_id=73514823339407 undefined GET
+/bill/change_class?client_id=11&bill_id=73514823762226 undefined GET
+/bill/change_class?client_id=11&bill_id=73514830711974 undefined GET
+/bill/change_class?client_id=11&bill_id=73514830712294 undefined GET
+/bill/change_class?client_id=11&bill_id=73514830712996 undefined GET
+/bill/change_class?client_id=11&bill_id=73514831108675 undefined GET
+/bill/change_class?client_id=11&bill_id=73514863847837 undefined GET
+/bill/change_class?client_id=11&bill_id=73514863848619 undefined GET
+/bill/change_class?client_id=11&bill_id=73514863848994 undefined GET
+/bill/change_class?client_id=11&bill_id=73514863850127 undefined GET
+/bill/change_class?client_id=11&bill_id=73514863850512 undefined GET
+/bill/change_class?client_id=11&bill_id=73514863850831 undefined GET
+/bill/change_class?client_id=11&bill_id=73514863851521 undefined GET
+/bill/change_class?client_id=11&bill_id=73514863851966 undefined GET
+/bill/change_class?client_id=11&bill_id=73514863852385 undefined GET
+/bill/change_class?client_id=11&bill_id=73514863852806 undefined GET
+/bill/change_class?client_id=11&bill_id=73514863853287 undefined GET
+/bill/change_class?client_id=11&bill_id=73514863853897 undefined GET
+/bill/change_class?client_id=11&bill_id=73514863854612 undefined GET
+/bill/change_class?client_id=11&bill_id=73514863855160 undefined GET
+/bill/change_class?client_id=11&bill_id=73514863855634 undefined GET
+服务器已在:::8010上启动。
+/tasks/get_all_tasks undefined GET
+/client/get_all_clients undefined GET
+/client/update_client_info undefined POST
+/client/get_all_clients undefined GET
+/tasks/get_all_tasks undefined GET
+/client/get_all_clients undefined GET
+/client/get_all_clients undefined GET
+/fileSchema/get_all_file_schema undefined GET
+/client/get_all_clients undefined GET
+/tasks/get_all_tasks undefined GET
+/tasks/get_all_tasks undefined GET
+/tasks/get_all_tasks undefined GET
+/client/get_all_clients undefined GET
+/tasks/get_all_tasks undefined GET
+/tasks/get_task_info_by_id?task_id=76 undefined GET
+/bill/get_bills_by_task_id?task_id=76 undefined GET
+/client/get_all_clients undefined GET
+/bill/get_raw_data_by_bill_id?bill_id=78384911888527 undefined GET
+服务器已在:::8010上启动。
+/tasks/get_all_tasks undefined GET
+/tasks/get_task_info_by_id?task_id=87 undefined GET
+/bill/get_bills_by_task_id?task_id=87 undefined GET
+/client/get_all_clients undefined GET
+/bill/get_raw_data_by_bill_id?bill_id=74100329549565 undefined GET
+/bill/get_raw_data_by_bill_id?bill_id=74100329549565 undefined GET
+/bill/get_raw_data_by_bill_id?bill_id=74100329549565 undefined GET
+/bill/get_raw_data_by_bill_id?bill_id=74100329549565 undefined GET
+/bill/get_raw_data_by_bill_id?bill_id=73514912486704 undefined GET
+/bill/get_raw_data_by_bill_id?bill_id=73514912486704 undefined GET
+/bill/get_raw_data_by_bill_id?bill_id=73514912486704 undefined GET
+/bill/get_raw_data_by_bill_id?bill_id=73514912486704 undefined GET
+/bill/get_raw_data_by_bill_id?bill_id=73515082593936 undefined GET
+/bill/get_raw_data_by_bill_id?bill_id=73515082593936 undefined GET
+/tasks/get_task_info_by_id?task_id=87 undefined GET
+/bill/get_bills_by_task_id?task_id=87 undefined GET
+/client/get_all_clients undefined GET
+/tasks/get_task_info_by_id?task_id=87 undefined GET
+/bill/get_bills_by_task_id?task_id=87 undefined GET
+/client/get_all_clients undefined GET
+/bill/get_raw_data_by_bill_id?bill_id=75613060437187 undefined GET
+True
+[LOG] [2024-03-07 16:12:07.272] 服务器已在:::8010上启动。
+[LOG] [2024-03-07 16:12:07.274] Executing (default): SELECT name FROM sqlite_master WHERE type='table' AND name='Plans';
+[LOG] [2024-03-07 16:12:07.274] Executing (default): SELECT name FROM sqlite_master WHERE type='table' AND name='Courses';
+[LOG] [2024-03-07 16:12:07.275] Executing (default): SELECT 1+1 AS result
+[LOG] [2024-03-07 16:12:07.284] Executing (default): PRAGMA TABLE_INFO(`Plans`);
+[LOG] [2024-03-07 16:12:07.284] Executing (default): PRAGMA foreign_key_list(`Plans`)
+[LOG] [2024-03-07 16:12:07.287] Executing (default): PRAGMA TABLE_INFO(`Courses`);
+[LOG] [2024-03-07 16:12:07.287] Executing (default): PRAGMA foreign_key_list(`Courses`)
+[LOG] [2024-03-07 16:12:07.288] Connection has been established successfully.
+[LOG] [2024-03-07 16:12:07.288] Executing (default): PRAGMA INDEX_LIST(`Plans`)
+[LOG] [2024-03-07 16:12:07.289] Executing (default): PRAGMA INDEX_LIST(`Courses`)
+[LOG] [2024-03-07 16:12:07.289] Executing (default): PRAGMA foreign_key_list(`Plans`)
+[LOG] [2024-03-07 16:12:07.290] Executing (default): PRAGMA foreign_key_list(`Courses`)
+[LOG] [2024-03-07 16:12:07.290] Executing (default): PRAGMA TABLE_INFO(`Plans`);
+[LOG] [2024-03-07 16:12:07.291] Executing (default): PRAGMA TABLE_INFO(`Courses`);
+[LOG] [2024-03-07 16:12:07.291] Executing (default): PRAGMA INDEX_LIST(`Plans`)
+[LOG] [2024-03-07 16:12:07.291] Executing (default): PRAGMA INDEX_LIST(`Courses`)
+[LOG] [2024-03-07 16:12:07.292] Executing (default): PRAGMA foreign_key_list(`Plans`)
+[LOG] [2024-03-07 16:12:07.292] Executing (default): PRAGMA foreign_key_list(`Courses`)
+[LOG] [2024-03-07 16:12:07.293] Executing (default): CREATE TABLE IF NOT EXISTS `Plans_backup` (`planId` INTEGER PRIMARY KEY, `planName` VARCHAR(255) NOT NULL, `planConfigs` VARCHAR(255) NOT NULL DEFAULT '{}', `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);
+[LOG] [2024-03-07 16:12:07.293] Executing (default): CREATE TABLE IF NOT EXISTS `Courses_backup` (`courseId` INTEGER PRIMARY KEY, `courseCode` VARCHAR(255) NOT NULL, `courseCategory` VARCHAR(255) NOT NULL, `courseName` VARCHAR(255) NOT NULL, `courseCredit` DOUBLE PRECISION NOT NULL, `planId` INTEGER NOT NULL, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);
+[LOG] [2024-03-07 16:12:07.296] Executing (default): INSERT INTO `Plans_backup` SELECT `planId`, `planName`, `planConfigs`, `createdAt`, `updatedAt` FROM `Plans`;
+[LOG] [2024-03-07 16:12:07.298] Executing (default): INSERT INTO `Courses_backup` SELECT `courseId`, `courseCode`, `courseCategory`, `courseName`, `courseCredit`, `planId`, `createdAt`, `updatedAt` FROM `Courses`;
+[LOG] [2024-03-07 16:12:07.301] Executing (default): DROP TABLE `Plans`;
+[LOG] [2024-03-07 16:12:07.303] Executing (default): DROP TABLE `Courses`;
+[LOG] [2024-03-07 16:12:07.305] Executing (default): CREATE TABLE IF NOT EXISTS `Plans` (`planId` INTEGER PRIMARY KEY, `planName` VARCHAR(255) NOT NULL, `planConfigs` VARCHAR(255) NOT NULL DEFAULT '{}', `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);
+[LOG] [2024-03-07 16:12:07.308] Executing (default): CREATE TABLE IF NOT EXISTS `Courses` (`courseId` INTEGER PRIMARY KEY, `courseCode` VARCHAR(255) NOT NULL, `courseCategory` VARCHAR(255) NOT NULL, `courseName` VARCHAR(255) NOT NULL, `courseCredit` DOUBLE PRECISION NOT NULL, `planId` INTEGER NOT NULL, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);
+[LOG] [2024-03-07 16:12:07.310] Executing (default): INSERT INTO `Plans` SELECT `planId`, `planName`, `planConfigs`, `createdAt`, `updatedAt` FROM `Plans_backup`;
+[LOG] [2024-03-07 16:12:07.312] Executing (default): INSERT INTO `Courses` SELECT `courseId`, `courseCode`, `courseCategory`, `courseName`, `courseCredit`, `planId`, `createdAt`, `updatedAt` FROM `Courses_backup`;
+[LOG] [2024-03-07 16:12:07.314] Executing (default): DROP TABLE `Plans_backup`;
+[LOG] [2024-03-07 16:12:07.317] Executing (default): DROP TABLE `Courses_backup`;
+[LOG] [2024-03-07 16:12:07.319] Executing (default): PRAGMA TABLE_INFO(`Plans`);
+[LOG] [2024-03-07 16:12:07.322] Executing (default): PRAGMA TABLE_INFO(`Courses`);
+[LOG] [2024-03-07 16:12:07.322] Executing (default): PRAGMA INDEX_LIST(`Plans`)
+[LOG] [2024-03-07 16:12:07.322] Executing (default): PRAGMA INDEX_LIST(`Courses`)
+[LOG] [2024-03-07 16:12:07.323] Executing (default): PRAGMA foreign_key_list(`Plans`)
+[LOG] [2024-03-07 16:12:07.323] Executing (default): PRAGMA foreign_key_list(`Courses`)
+[LOG] [2024-03-07 16:12:07.323] Executing (default): CREATE TABLE IF NOT EXISTS `Plans_backup` (`planId` INTEGER PRIMARY KEY, `planName` VARCHAR(255) NOT NULL, `planConfigs` VARCHAR(255) NOT NULL DEFAULT '{}', `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);
+[LOG] [2024-03-07 16:12:07.324] Executing (default): CREATE TABLE IF NOT EXISTS `Courses_backup` (`courseId` INTEGER PRIMARY KEY, `courseCode` VARCHAR(255) NOT NULL, `courseCategory` VARCHAR(255) NOT NULL, `courseName` VARCHAR(255) NOT NULL, `courseCredit` DOUBLE PRECISION NOT NULL, `planId` INTEGER NOT NULL, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);
+[LOG] [2024-03-07 16:12:07.327] Executing (default): INSERT INTO `Plans_backup` SELECT `planId`, `planName`, `planConfigs`, `createdAt`, `updatedAt` FROM `Plans`;
+[LOG] [2024-03-07 16:12:07.329] Executing (default): INSERT INTO `Courses_backup` SELECT `courseId`, `courseCode`, `courseCategory`, `courseName`, `courseCredit`, `planId`, `createdAt`, `updatedAt` FROM `Courses`;
+[LOG] [2024-03-07 16:12:07.333] Executing (default): DROP TABLE `Plans`;
+[LOG] [2024-03-07 16:12:07.335] Executing (default): DROP TABLE `Courses`;
+[LOG] [2024-03-07 16:12:07.338] Executing (default): CREATE TABLE IF NOT EXISTS `Plans` (`planId` INTEGER PRIMARY KEY, `planName` VARCHAR(255) NOT NULL, `planConfigs` VARCHAR(255) NOT NULL DEFAULT '{}', `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);
+[LOG] [2024-03-07 16:12:07.340] Executing (default): CREATE TABLE IF NOT EXISTS `Courses` (`courseId` INTEGER PRIMARY KEY, `courseCode` VARCHAR(255) NOT NULL, `courseCategory` VARCHAR(255) NOT NULL, `courseName` VARCHAR(255) NOT NULL, `courseCredit` DOUBLE PRECISION NOT NULL, `planId` INTEGER NOT NULL, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);
+[LOG] [2024-03-07 16:12:07.342] Executing (default): INSERT INTO `Plans` SELECT `planId`, `planName`, `planConfigs`, `createdAt`, `updatedAt` FROM `Plans_backup`;
+[LOG] [2024-03-07 16:12:07.345] Executing (default): INSERT INTO `Courses` SELECT `courseId`, `courseCode`, `courseCategory`, `courseName`, `courseCredit`, `planId`, `createdAt`, `updatedAt` FROM `Courses_backup`;
+[LOG] [2024-03-07 16:12:07.347] Executing (default): DROP TABLE `Plans_backup`;
+[LOG] [2024-03-07 16:12:07.349] Executing (default): DROP TABLE `Courses_backup`;
+[LOG] [2024-03-07 16:12:07.351] Executing (default): PRAGMA TABLE_INFO(`Plans`);
+[LOG] [2024-03-07 16:12:07.354] Executing (default): PRAGMA TABLE_INFO(`Courses`);
+[LOG] [2024-03-07 16:12:07.354] Executing (default): PRAGMA INDEX_LIST(`Plans`)
+[LOG] [2024-03-07 16:12:07.354] Executing (default): PRAGMA INDEX_LIST(`Courses`)
+[LOG] [2024-03-07 16:12:07.354] Executing (default): PRAGMA foreign_key_list(`Plans`)
+[LOG] [2024-03-07 16:12:07.355] Executing (default): PRAGMA foreign_key_list(`Courses`)
+[LOG] [2024-03-07 16:12:07.355] Executing (default): CREATE TABLE IF NOT EXISTS `Plans_backup` (`planId` INTEGER PRIMARY KEY, `planName` VARCHAR(255) NOT NULL, `planConfigs` VARCHAR(255) NOT NULL DEFAULT '{}', `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);
+[LOG] [2024-03-07 16:12:07.356] Executing (default): CREATE TABLE IF NOT EXISTS `Courses_backup` (`courseId` INTEGER PRIMARY KEY, `courseCode` VARCHAR(255) NOT NULL, `courseCategory` VARCHAR(255) NOT NULL, `courseName` VARCHAR(255) NOT NULL, `courseCredit` DOUBLE PRECISION NOT NULL, `planId` INTEGER NOT NULL, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);
+[LOG] [2024-03-07 16:12:07.358] Executing (default): INSERT INTO `Plans_backup` SELECT `planId`, `planName`, `planConfigs`, `createdAt`, `updatedAt` FROM `Plans`;
+[LOG] [2024-03-07 16:12:07.360] Executing (default): INSERT INTO `Courses_backup` SELECT `courseId`, `courseCode`, `courseCategory`, `courseName`, `courseCredit`, `planId`, `createdAt`, `updatedAt` FROM `Courses`;
+[LOG] [2024-03-07 16:12:07.362] Executing (default): DROP TABLE `Plans`;
+[LOG] [2024-03-07 16:12:07.364] Executing (default): DROP TABLE `Courses`;
+[LOG] [2024-03-07 16:12:07.365] Executing (default): CREATE TABLE IF NOT EXISTS `Plans` (`planId` INTEGER PRIMARY KEY, `planName` VARCHAR(255) NOT NULL, `planConfigs` VARCHAR(255) NOT NULL DEFAULT '{}', `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);
+[LOG] [2024-03-07 16:12:07.367] Executing (default): CREATE TABLE IF NOT EXISTS `Courses` (`courseId` INTEGER PRIMARY KEY, `courseCode` VARCHAR(255) NOT NULL, `courseCategory` VARCHAR(255) NOT NULL, `courseName` VARCHAR(255) NOT NULL, `courseCredit` DOUBLE PRECISION NOT NULL, `planId` INTEGER NOT NULL, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);
+[LOG] [2024-03-07 16:12:07.370] Executing (default): INSERT INTO `Plans` SELECT `planId`, `planName`, `planConfigs`, `createdAt`, `updatedAt` FROM `Plans_backup`;
+[LOG] [2024-03-07 16:12:07.372] Executing (default): INSERT INTO `Courses` SELECT `courseId`, `courseCode`, `courseCategory`, `courseName`, `courseCredit`, `planId`, `createdAt`, `updatedAt` FROM `Courses_backup`;
+[LOG] [2024-03-07 16:12:07.374] Executing (default): DROP TABLE `Plans_backup`;
+[LOG] [2024-03-07 16:12:07.376] Executing (default): DROP TABLE `Courses_backup`;
+[LOG] [2024-03-07 16:12:07.378] Executing (default): PRAGMA TABLE_INFO(`Plans`);
+[LOG] [2024-03-07 16:12:07.380] Executing (default): PRAGMA TABLE_INFO(`Courses`);
+[LOG] [2024-03-07 16:12:07.380] Executing (default): PRAGMA INDEX_LIST(`Plans`)
+[LOG] [2024-03-07 16:12:07.380] Executing (default): PRAGMA INDEX_LIST(`Courses`)
+[LOG] [2024-03-07 16:12:07.381] Executing (default): PRAGMA foreign_key_list(`Plans`)
+[LOG] [2024-03-07 16:12:07.381] Executing (default): PRAGMA foreign_key_list(`Courses`)
+[LOG] [2024-03-07 16:12:07.381] Executing (default): CREATE TABLE IF NOT EXISTS `Plans_backup` (`planId` INTEGER PRIMARY KEY, `planName` VARCHAR(255) NOT NULL, `planConfigs` VARCHAR(255) NOT NULL DEFAULT '{}', `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);
+[LOG] [2024-03-07 16:12:07.382] Executing (default): CREATE TABLE IF NOT EXISTS `Courses_backup` (`courseId` INTEGER PRIMARY KEY, `courseCode` VARCHAR(255) NOT NULL, `courseCategory` VARCHAR(255) NOT NULL, `courseName` VARCHAR(255) NOT NULL, `courseCredit` DOUBLE PRECISION NOT NULL, `planId` INTEGER NOT NULL, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);
+[LOG] [2024-03-07 16:12:07.384] Executing (default): INSERT INTO `Plans_backup` SELECT `planId`, `planName`, `planConfigs`, `createdAt`, `updatedAt` FROM `Plans`;
+[LOG] [2024-03-07 16:12:07.386] Executing (default): INSERT INTO `Courses_backup` SELECT `courseId`, `courseCode`, `courseCategory`, `courseName`, `courseCredit`, `planId`, `createdAt`, `updatedAt` FROM `Courses`;
+[LOG] [2024-03-07 16:12:07.388] Executing (default): DROP TABLE `Plans`;
+[LOG] [2024-03-07 16:12:07.390] Executing (default): DROP TABLE `Courses`;
+[LOG] [2024-03-07 16:12:07.391] Executing (default): CREATE TABLE IF NOT EXISTS `Plans` (`planId` INTEGER PRIMARY KEY, `planName` VARCHAR(255) NOT NULL, `planConfigs` VARCHAR(255) NOT NULL DEFAULT '{}', `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);
+[LOG] [2024-03-07 16:12:07.393] Executing (default): CREATE TABLE IF NOT EXISTS `Courses` (`courseId` INTEGER PRIMARY KEY, `courseCode` VARCHAR(255) NOT NULL, `courseCategory` VARCHAR(255) NOT NULL, `courseName` VARCHAR(255) NOT NULL, `courseCredit` DOUBLE PRECISION NOT NULL, `planId` INTEGER NOT NULL, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);
+[LOG] [2024-03-07 16:12:07.395] Executing (default): INSERT INTO `Plans` SELECT `planId`, `planName`, `planConfigs`, `createdAt`, `updatedAt` FROM `Plans_backup`;
+[LOG] [2024-03-07 16:12:07.397] Executing (default): INSERT INTO `Courses` SELECT `courseId`, `courseCode`, `courseCategory`, `courseName`, `courseCredit`, `planId`, `createdAt`, `updatedAt` FROM `Courses_backup`;
+[LOG] [2024-03-07 16:12:07.399] Executing (default): DROP TABLE `Plans_backup`;
+[LOG] [2024-03-07 16:12:07.401] Executing (default): DROP TABLE `Courses_backup`;
+[LOG] [2024-03-07 16:12:07.403] Executing (default): PRAGMA INDEX_LIST(`Plans`)
+[LOG] [2024-03-07 16:12:07.405] Executing (default): PRAGMA TABLE_INFO(`Courses`);
+[LOG] [2024-03-07 16:12:07.406] Executing (default): PRAGMA INDEX_LIST(`Courses`)
+[LOG] [2024-03-07 16:12:07.406] Executing (default): PRAGMA foreign_key_list(`Courses`)
+[LOG] [2024-03-07 16:12:07.406] Executing (default): CREATE TABLE IF NOT EXISTS `Courses_backup` (`courseId` INTEGER PRIMARY KEY, `courseCode` VARCHAR(255) NOT NULL, `courseCategory` VARCHAR(255) NOT NULL, `courseName` VARCHAR(255) NOT NULL, `courseCredit` DOUBLE PRECISION NOT NULL, `planId` INTEGER NOT NULL, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);
+[LOG] [2024-03-07 16:12:07.408] Executing (default): INSERT INTO `Courses_backup` SELECT `courseId`, `courseCode`, `courseCategory`, `courseName`, `courseCredit`, `planId`, `createdAt`, `updatedAt` FROM `Courses`;
+[LOG] [2024-03-07 16:12:07.410] Executing (default): DROP TABLE `Courses`;
+[LOG] [2024-03-07 16:12:07.412] Executing (default): CREATE TABLE IF NOT EXISTS `Courses` (`courseId` INTEGER PRIMARY KEY, `courseCode` VARCHAR(255) NOT NULL, `courseCategory` VARCHAR(255) NOT NULL, `courseName` VARCHAR(255) NOT NULL, `courseCredit` DOUBLE PRECISION NOT NULL, `planId` INTEGER NOT NULL, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);
+[LOG] [2024-03-07 16:12:07.414] Executing (default): INSERT INTO `Courses` SELECT `courseId`, `courseCode`, `courseCategory`, `courseName`, `courseCredit`, `planId`, `createdAt`, `updatedAt` FROM `Courses_backup`;
+[LOG] [2024-03-07 16:12:07.416] Executing (default): DROP TABLE `Courses_backup`;
+[LOG] [2024-03-07 16:12:07.418] Executing (default): PRAGMA TABLE_INFO(`Courses`);
+[LOG] [2024-03-07 16:12:07.418] Executing (default): PRAGMA INDEX_LIST(`Courses`)
+[LOG] [2024-03-07 16:12:07.419] Executing (default): PRAGMA foreign_key_list(`Courses`)
+[LOG] [2024-03-07 16:12:07.419] Executing (default): CREATE TABLE IF NOT EXISTS `Courses_backup` (`courseId` INTEGER PRIMARY KEY, `courseCode` VARCHAR(255) NOT NULL, `courseCategory` VARCHAR(255) NOT NULL, `courseName` VARCHAR(255) NOT NULL, `courseCredit` DOUBLE PRECISION NOT NULL, `planId` INTEGER NOT NULL, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);
+[LOG] [2024-03-07 16:12:07.421] Executing (default): INSERT INTO `Courses_backup` SELECT `courseId`, `courseCode`, `courseCategory`, `courseName`, `courseCredit`, `planId`, `createdAt`, `updatedAt` FROM `Courses`;
+[LOG] [2024-03-07 16:12:07.423] Executing (default): DROP TABLE `Courses`;
+[LOG] [2024-03-07 16:12:07.425] Executing (default): CREATE TABLE IF NOT EXISTS `Courses` (`courseId` INTEGER PRIMARY KEY, `courseCode` VARCHAR(255) NOT NULL, `courseCategory` VARCHAR(255) NOT NULL, `courseName` VARCHAR(255) NOT NULL, `courseCredit` DOUBLE PRECISION NOT NULL, `planId` INTEGER NOT NULL, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);
+[LOG] [2024-03-07 16:12:07.427] Executing (default): INSERT INTO `Courses` SELECT `courseId`, `courseCode`, `courseCategory`, `courseName`, `courseCredit`, `planId`, `createdAt`, `updatedAt` FROM `Courses_backup`;
+[LOG] [2024-03-07 16:12:07.429] Executing (default): DROP TABLE `Courses_backup`;
+[LOG] [2024-03-07 16:12:07.432] Executing (default): PRAGMA TABLE_INFO(`Courses`);
+[LOG] [2024-03-07 16:12:07.432] Executing (default): PRAGMA INDEX_LIST(`Courses`)
+[LOG] [2024-03-07 16:12:07.432] Executing (default): PRAGMA foreign_key_list(`Courses`)
+[LOG] [2024-03-07 16:12:07.432] Executing (default): CREATE TABLE IF NOT EXISTS `Courses_backup` (`courseId` INTEGER PRIMARY KEY, `courseCode` VARCHAR(255) NOT NULL, `courseCategory` VARCHAR(255) NOT NULL, `courseName` VARCHAR(255) NOT NULL, `courseCredit` DOUBLE PRECISION NOT NULL, `planId` INTEGER NOT NULL, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);
+[LOG] [2024-03-07 16:12:07.435] Executing (default): INSERT INTO `Courses_backup` SELECT `courseId`, `courseCode`, `courseCategory`, `courseName`, `courseCredit`, `planId`, `createdAt`, `updatedAt` FROM `Courses`;
+[LOG] [2024-03-07 16:12:07.437] Executing (default): DROP TABLE `Courses`;
+[LOG] [2024-03-07 16:12:07.439] Executing (default): CREATE TABLE IF NOT EXISTS `Courses` (`courseId` INTEGER PRIMARY KEY, `courseCode` VARCHAR(255) NOT NULL, `courseCategory` VARCHAR(255) NOT NULL, `courseName` VARCHAR(255) NOT NULL, `courseCredit` DOUBLE PRECISION NOT NULL, `planId` INTEGER NOT NULL, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);
+[LOG] [2024-03-07 16:12:07.441] Executing (default): INSERT INTO `Courses` SELECT `courseId`, `courseCode`, `courseCategory`, `courseName`, `courseCredit`, `planId`, `createdAt`, `updatedAt` FROM `Courses_backup`;
+[LOG] [2024-03-07 16:12:07.443] Executing (default): DROP TABLE `Courses_backup`;
+[LOG] [2024-03-07 16:12:07.445] Executing (default): PRAGMA INDEX_LIST(`Courses`)
+[LOG] [2024-03-07 16:12:07.476] /socket/.websocket undefined GET
